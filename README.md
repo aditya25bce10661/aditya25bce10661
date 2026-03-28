@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 ### YEAR:- FIRST YEAR
 
 
- **💻LEARNING GOAL:-** 
+ ###**💻LEARNING GOAL:-** 
  **I hope to master my coding skills and learn many coding languages and to solve complex, real-world challenges during my tenure at VIT Bhopal.🎓**
