@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **aditya25bce10661/aditya25bce10661** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### NAME:- ADITYA GANGULY
+### Branch:- B.Tech CSE Core.
+### YEAR:- FIRST YEAR
+
+
+ **💻LEARNING GOAL:-** 
+ **I hope to master my coding skills and learn many coding languages and to solve complex, real-world challenges during my tenure at VIT Bhopal.🎓**
