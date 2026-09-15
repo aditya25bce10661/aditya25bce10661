@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### NAME:- ADITYA GANGULY
 ### Branch:- B.Tech CSE Core.
-### YEAR:- FIRST YEAR
+### YEAR:- Second Year
 
 
- ### **💻LEARNING GOAL:-** **I hope to master my coding skills and learn many coding languages and to solve complex, real-world challenges during my tenure at VIT Bhopal.🎓**
+ ### **💻LEARNING GOAL:-** **I am mastering my coding skills and learn many coding languages, solve complex, real-world challenges during my tenure at VIT Bhopal.🎓**
